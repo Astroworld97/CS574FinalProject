@@ -1,5 +1,9 @@
 # CS574FinalProject
 
+# Important Rules of Pushing Code to Codebase
+**Git commit standardization**
+`[type]: <subject><BLANK LINE><body><BLANK LINE>`
+
 - All types list as follows：
     - feat: new feature
     - fix: bug fix
