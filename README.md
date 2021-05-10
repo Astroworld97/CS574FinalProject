@@ -1,6 +1,6 @@
 # CS574FinalProject
 
-# Important Rules of Pushing Code to Codebase
+## Important Rules of Pushing Code to Codebase
 **Git commit standardization**
 `[type]: <subject><BLANK LINE><body><BLANK LINE>`
 
